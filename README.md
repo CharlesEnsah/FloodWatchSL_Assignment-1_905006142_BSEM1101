@@ -106,8 +106,11 @@ Report saved. Your report ID is FW-0006
 ```
 
 ## Screenshots
-### Dashboard
-<img width="853" height="612" alt="Screenshot 2026-10-09 181908" src="https://github.com/user-attachments/assets/a452e3c0-2aa6-4918-9f3b-b818a504f0dc" />
+### Dashboard-Images
+
+<img width="486" height="364" alt="Screenshot 2026-10-09 183025" src="https://github.com/user-attachments/assets/0821a2c8-3b37-4b98-8198-d6f57400e15a" />
+
+<img width="501" height="432" alt="Screenshot 2026-10-09 183113" src="https://github.com/user-attachments/assets/2564a2e5-94bf-4b8b-92eb-d96a454f45c3" />
 
 ```
 
