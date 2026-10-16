@@ -106,11 +106,10 @@ Report saved. Your report ID is FW-0006
 ```
 
 ## Screenshots
-Add your screenshots to a `screenshots/` folder and link them here, for example:
+<img width="853" height="612" alt="Screenshot 2026-10-09 181908" src="https://github.com/user-attachments/assets/a452e3c0-2aa6-4918-9f3b-b818a504f0dc" />
+
 ```
-![Main menu](screenshots/menu.png)
-![Priority ranking](screenshots/priority.png)
-![Dashboard](screenshots/dashboard.png)
+
 ```
 
 ## License
