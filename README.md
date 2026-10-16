@@ -106,7 +106,7 @@ Report saved. Your report ID is FW-0006
 ```
 
 ## Screenshots
-Dashboard
+### Dashboard
 <img width="853" height="612" alt="Screenshot 2026-10-09 181908" src="https://github.com/user-attachments/assets/a452e3c0-2aa6-4918-9f3b-b818a504f0dc" />
 
 ```
