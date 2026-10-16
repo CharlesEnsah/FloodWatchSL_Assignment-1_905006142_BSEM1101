@@ -105,10 +105,12 @@ Choose a number (1-3): 3
 Report saved. Your report ID is FW-0006
 ```
 
-## Screenshots
-### Dashboard-Images
+## Screenshots of FloodWatch
+
 
 <img width="486" height="364" alt="Screenshot 2026-10-09 183025" src="https://github.com/user-attachments/assets/0821a2c8-3b37-4b98-8198-d6f57400e15a" />
+
+
 
 <img width="501" height="432" alt="Screenshot 2026-10-09 183113" src="https://github.com/user-attachments/assets/2564a2e5-94bf-4b8b-92eb-d96a454f45c3" />
 
